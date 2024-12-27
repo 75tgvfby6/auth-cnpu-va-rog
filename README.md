@@ -1,15 +1,21 @@
 <div align="center">
 
-# Auth
+# Auth 
 
-Login and Register Authorization Datapack for Minecraft
+# original : https://github.com/lullaby6/Auth
+</div></div></div></div></div></div></div></div>
+<div align="center">
 
+cnpu va rog [:
+
+Datapack for Minecraft to set a numerical code to Register and Login with on your server
+</div></div></div></div>
 </div>
 
 ## Installation
 
 
-After [Download](https://github.com/LucianoBrumer/Auth/releases/download/release/Auth.zip) the datapack, move it into the folder "datapacks" in your world folder.
+After [Downloading](https://github.com/75tgvfby6/auth-buletinu-va-rog-/releases/download/release/auth.zip) the datapack, move it into the folder "datapacks" in your world folder.
 
 
 ## Usage
